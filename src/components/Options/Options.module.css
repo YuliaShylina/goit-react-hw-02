@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  gap: 10px;
+}
+
+button:hover {
+  background-color: rgba(161, 159, 159, 0.507);
+}
+
+.show {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
